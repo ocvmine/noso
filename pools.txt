@@ -1,0 +1,1 @@
+nosofish:nosofish.xyz:8082,akkarin:pool.noso-akkarin.com:8082,estrip:nosopool.estripa.online:8082,nosomn:pool.nosomn.com:8082,propool:47.87.181.190:8082
